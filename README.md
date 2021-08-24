@@ -64,7 +64,7 @@ alt="mysql" width="40" height="40"/> </a>
 
 <a href="https://www.uipath.com/" target="_blank"> 
 <img src="https://content.techgig.com/photo/82102502/uipath-partners-with-guvi-to-train-learners-in-software-automation.jpg?4161" 
-alt="uipath" width="40" height="40"/> </a>
+alt="uipath" width="60" height="40"/> </a>
 
 <a href="https://www.w3schools.com/css/" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" 
