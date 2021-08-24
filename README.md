@@ -46,7 +46,7 @@ alt="gcp" width="40" height="40"/> </a>
 <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
 
 <a href="https://heroku.com" target="_blank"> 
-img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
+<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
 
 <a href="https://aws.amazon.com/s3/" target="_blank"> 
 <img src="https://panoply.io/images/integration-logos/s3.svg" alt="amazon-s3" width="40" height="40"/> </a>
