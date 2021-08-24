@@ -84,7 +84,6 @@ https://pbs.twimg.com/profile_images/1348748676282388482/nr8ZuLBE_400x400.jpg
 ### My Hobbies and interests -
 * Following Current Affairs
 * Travelling
-* Sketching
 * foodie :joy: 
 
 #### You can also find me on- 
